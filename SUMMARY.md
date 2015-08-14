@@ -1,12 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-    * [Purpose](Introduction/Purpose.md)
+   * [Purpose](Introduction/Purpose.md)
 * [Setting up your environment](Environment/README.md)
-    * [Tools](environment/Tools.md)
+   * [Tools](environment/Tools.md)
 * [ÐApp Guidelines](Guidelines/README.md)
-    * [Whats your use case](Guidelines/Usecases.md)
-    * [Public ÐApp](Guidelines/Public.md)
-    * [Private ÐApp](Guidelines/Private.md)
-    * [Distributed ÐApp](Guidelines/Pistributed.md)
+   * [Whats your use case](Guidelines/Usecases.md)
+   * [Public ÐApp](Guidelines/public.md)
+   * [Private ÐApp](Guidelines/Private.md)
+   * [Distributed ÐApp](Guidelines/Pistributed.md)
 
