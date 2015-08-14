@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
     * [Purpose](introduction/purpose.md)
-* [Setting up your environment](environment/README.md)
+* [Setting up your environment](Environment/README.md)
     * [Tools](environment/Tools.md)
-* [ÐApp Guidelines](guidelines/README.md)
-    * [Whats your use case](guidelines/Usecases.md)
-    * [Public ÐApp](guidelines/public/README.md)
-    * [Private ÐApp](guidelines/private/README.md)
-    * [Distributed ÐApp](guidelines/distributed/README.md)
+* [ÐApp Guidelines](Guidelines/README.md)
+    * [Whats your use case](Guidelines/Usecases.md)
+    * [Public ÐApp](Guidelines/public/README.md)
+    * [Private ÐApp](Guidelines/private/README.md)
+    * [Distributed ÐApp](Guidelines/distributed/README.md)
 
