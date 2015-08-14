@@ -9,5 +9,3 @@
    * [Public ÐApp](Guidelines/public.md)
    * [Private ÐApp](Guidelines/private.md)
    * [Distributed ÐApp](Guidelines/pistributed.md)
-   * 
-
