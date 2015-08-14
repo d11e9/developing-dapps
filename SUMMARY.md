@@ -1,6 +1,7 @@
 # Summary
 
-This is the summary of my book.
-
+* [Introduction](README.md)
 * [section 1](section1/README.md)
-    * [example 1](section1/example1.md)
+   * [example 1](section1/example1.md)
+* Setting up your environment
+
