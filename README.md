@@ -4,7 +4,7 @@ This book is intended as a reference guide and a collection of best practices fo
 
 ## What it is for
 
-While this book can act as an introduction to building decentralized applications, its primary purpose is to highlight the defferent kinds of ÐApps and how best to develop them for greater compatibility in the ecosystem.
+While this book can act as an introduction to building decentralized applications, its primary purpose is to highlight the different kinds of ÐApps and how best to develop them for greater compatibility in the ecosystem.
 
 ## And what it's not
 
