@@ -8,4 +8,4 @@
    * [Whats your use case](Guidelines/usecases.md)
    * [Public ÐApp](Guidelines/public.md)
    * [Private ÐApp](Guidelines/private.md)
-   * [Distributed ÐApp](Guidelines/pistributed.md)
+   * [Distributed ÐApp](Guidelines/distributed.md)
