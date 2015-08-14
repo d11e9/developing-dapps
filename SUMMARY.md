@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Purpose](Introduction/Purpose.md)
 * [Setting up your environment](Environment/README.md)
-   * [Tools](environment/Tools.md)
+   * [Tools](environment/tools.md)
 * [ÐApp Guidelines](Guidelines/README.md)
    * [Whats your use case](Guidelines/Usecases.md)
    * [Public ÐApp](Guidelines/public.md)
