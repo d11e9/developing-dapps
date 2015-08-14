@@ -8,5 +8,5 @@
    * [Whats your use case](Guidelines/Usecases.md)
    * [Public ÐApp](Guidelines/public.md)
    * [Private ÐApp](Guidelines/private.md)
-   * [Distributed ÐApp](Guidelines/Pistributed.md)
+   * [Distributed ÐApp](Guidelines/pistributed.md)
 
