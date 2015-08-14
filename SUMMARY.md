@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Purpose](Introduction/Purpose.md)
+   * [Purpose](Introduction/purpose.md)
 * [Setting up your environment](Environment/README.md)
    * [Tools](environment/tools.md)
 * [ÐApp Guidelines](Guidelines/README.md)
