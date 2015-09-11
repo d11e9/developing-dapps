@@ -1,0 +1,3 @@
+#Hello World
+
+As with all new envevours in the firld of programming and development, we'll start with the most simple hello world example. It will cover the bredth of DApp development from start to finish, but in the simplest way possible. This as to give you, the reader a good overview of the whole process, helping you to navigate to chapters that cover the areas you're looking to cover in more depth.

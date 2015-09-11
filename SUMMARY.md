@@ -1,12 +1,17 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Purpose](Introduction/purpose.md)
-* Setting up your environment
-   * [Tools](environment/tools.md)
+	* [Purpose](Introduction/purpose.md)
+	* [Preface](Introduction/preface.md)
+	* [Ethereum](Introduction/ethereum.md)
+	* [ÐApps](Introduction/dapps.md)
+* [Setting up your environment](Environment/README.md)
+	* [Network](Environmant/network.md)
+	* [Tools](Environment/tools.md)
 * [ÐApp Guidelines](Guidelines/README.md)
-   * [Whats your use case](Guidelines/usecases.md)
-   * [Public ÐApp](Guidelines/public.md)
-   * [Private ÐApp](Guidelines/private.md)
-   * [Distributed ÐApp](Guidelines/distributed.md)
-
+	* [Whats your use case](Guidelines/usecases.md)
+	* [Public ÐApp](Guidelines/public.md)
+	* [Private ÐApp](Guidelines/private.md)
+	* [Distributed ÐApp](Guidelines/distributed.md)
+* [Hello World](HelloWorld/README.md)
+	* [Contracts](HelloWorld/contracts.md)
