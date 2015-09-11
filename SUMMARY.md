@@ -9,11 +9,11 @@
 * [Setting up your environment](SettingUp/README.md)
    * [Network](SettingUp/network.md)
    * [Tools](SettingUp/tools.md)
+* [Hello World](HelloWorld/READMEmd)
+   * [Contracts](HelloWorld/contracts.md)
 * [ÐApp Guidelines](Guidelines/README.md)
    * [Whats your use case](Guidelines/usecases.md)
    * [Public ÐApp](Guidelines/public.md)
    * [Private ÐApp](Guidelines/private.md)
    * [Distributed ÐApp](Guidelines/distributed.md)
-* [Hello World](HelloWorld/READMEmd)
-   * [Contracts](HelloWorld/contracts.md)
 
