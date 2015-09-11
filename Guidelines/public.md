@@ -1,6 +1,6 @@
 Public ÐApp
 
-Where a user interacts with a website at a given domain, this website then provides a web3 interface for the user to interact with, which connects back to the servers instance of Ethereum.
+Where a user interacts with a website at a given domain, this website then provides a web3 interface for the user to interact with, which connects back to the servers' instance of Ethereum.
 
 ## It should not
 
